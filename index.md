@@ -1,11 +1,9 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
+title: CNS2022 Workshop: Highly comparative analysis of neural dynamics
 layout: home
 ---
-
-# CNS2022 Workshop: Highly comparative analysis of neural dynamics
 
 Quantifying the dynamics of complex, spatially distributed neural systems typically requires researchers to subjectively select from the myriad scientific methods that have been developed to capture properties of univariate dynamics (e.g., properties of the autocorrelation function, multiscale entropy, or thousands of others) and pairwise dependencies (e.g., Pearson correlation, wavelet coherence, or hundreds of others).
 An emerging alternative to this approach is termed 'highly comparative time-series analysis', implemented using associated software tools hctsa (Matlab), theft (R), and pyspi (python).
