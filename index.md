@@ -18,7 +18,7 @@ This workshop aims to solidify a community around the use of this novel approach
 
 ![](/assets/Meme.png)
 
-Speakers and talks are listed below:
+# Speakers and talk information
 
 ## Golia Shafiei (McGill University): Topographic gradients of intrinsic dynamics across neocortex
 
@@ -42,7 +42,7 @@ Our feature-based approach to dimensionality reduction provides a comprehensive 
 There is an increasing motivation to understand how the brain’s macroscale dynamics are shaped by underlying microscale mechanisms. In animal models, we can now investigate this relationship in unprecedented detail by directly manipulating cellular-level properties while measuring the whole-brain response using resting-state functional magnetic resonance imaging (rsfMRI). Here, we focused on investigating how cell-specific chemogenetic modulation in either cortical or subcortical regions shapes BOLD fluctuations at the network level. Using ‘highly comparative time-series analysis’ (`hctsa`), we show the effects of neuromodulation on BOLD time-series dynamics of targeted regions as well as remote but anatomically connected regions. We uncover specific structural and functional constraints that shape changes in BOLD dynamics and illustrate what time-series properties are affected by neuromodulation. Finally, we show that hctsa classifier trained on causal microcircuit alterations can detect similar alterations from an independent rsfMRI dataset of a well-defined disease model. Our results provide deeper insight into how district microcircuit dynamics relate to large-scale noninvasive imaging measurement.
 
 - [&#x1F4D9; _bioRxiv_ Preprint (2022)](https://www.biorxiv.org/content/10.1101/2022.03.11.483972v1).
-- [&#x1F4D7; _Cerebral Cortex_ Paper (2020)](https://doi.org/10.1093/cercor/bhaa084)
+- [&#x1F4D7; _Cerebral Cortex_ Paper (2020)](https://doi.org/10.1093/cercor/bhaa084).
 
 ![](/assets/MarijaImage.png)
 
