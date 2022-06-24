@@ -11,10 +11,16 @@ More information about other workshops is [here](https://www.cnsorg.org/cns-2022
 ## Overview
 
 Quantifying the dynamics of complex, spatially distributed neural systems typically requires researchers to subjectively select from the myriad scientific methods that have been developed to capture properties of univariate dynamics (e.g., properties of the autocorrelation function, multiscale entropy, or thousands of others) and pairwise dependencies (e.g., Pearson correlation, wavelet coherence, or hundreds of others).
-An emerging alternative to this approach is termed 'highly comparative time-series analysis', implemented using associated software tools `hctsa` (Matlab), `theft` (R), and `pyspi` (python).
+An emerging alternative to this approach is termed 'highly comparative time-series analysis', implemented using associated software tools:
+
+- [`hctsa`](https://github.com/benfulcher/hctsa) (Matlab)
+- [`theft`](https://github.com/hendersontrent/theft) (R), and
+- [`pySPI`](https://github.com/olivercliff/pyspi) (python).
+
 This approach involves simultaneously applying large interdisciplinary libraries of hundreds or thousands of methods to a given dataset, and then extracting informative dynamical patterns from the combined information, or inferring the most informative types of methods through comparison.
 
 This workshop aims to solidify a community around the use of this novel approach and the computational tools for achieving it, and showcase some of highlights of its applications to date.
+It accompanies an associated CNS2022 tutorial: [_'Characterizing neural dynamics using highly comparative time-series analysis'_](https://www.cnsorg.org/cns-2022-tutorials#T5), which introduces each of these software tools and demonstrates their use on problems involving neural dynamics.
 
 ![](/assets/Meme.png)
 
