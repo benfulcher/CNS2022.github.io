@@ -5,7 +5,7 @@ title: CNS2022 Workshop on Highly Comparative Analysis of Neural Dynamics
 layout: home
 ---
 
-This page gives information on our workshop titled 'Highly Comparative Analysis of Neural Dynamics' at [CNS2022](https://www.cnsorg.org/cns-2022-quick) on Tuesday 19th July in Melbourne.
+This page gives information on our workshop titled _'Highly Comparative Analysis of Neural Dynamics'_ at [CNS2022](https://www.cnsorg.org/cns-2022-quick) on Tuesday 19th July in Melbourne.
 More information about other workshops is [here](https://www.cnsorg.org/cns-2022-workshops).
 
 ## Overview
