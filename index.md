@@ -26,7 +26,7 @@ It accompanies an associated CNS2022 tutorial: [_'Characterizing neural dynamics
 
 # Speakers and talk information
 
-## Golia Shafiei (McGill University): Topographic gradients of intrinsic dynamics across neocortex
+## [Golia Shafiei](https://twitter.com/goliashf) (McGill University): Topographic gradients of intrinsic dynamics across neocortex
 
 Neural activity and functional interactions between brain areas are naturally variable from moment to moment, resulting in dynamic configurations of brain activity. Connectome architecture and its spatial embedding shape local and global brain dynamics. Notably, the functional organization of the human cortex – as well as anatomical markers such as intracortical myelin, cortical thickness, and gene expression – display a hierarchical organization, principally along an axis that spans unimodal sensory/motor and higher order transmodal regions. However, less is known about how regional spontaneous neuronal activity is associated with large-scale network organization. In this study, we aimed to characterize the link between the dynamic profile of cortical areas and their network embedding using time-series properties of localized brain activity. We obtained structural and functional magnetic resonance imaging (MRI) data of healthy young adults from the Human Connectome Project. The highly comparative time series analysis toolbox (`hctsa`) was used to extract over 7000 temporal features of the resting-state functional MRI time-series. Principal component analysis (PCA) was used to identify linear combinations of time-series features that vary maximally across the cortex. PCA results were compared with gene expression, morphological properties, and functional connectivity of the human cortex. The results show that the dynamic fingerprint of regional brain activity is related to its network embedding. Local time-series properties are highly similar for pairs of regions that are structurally connected and belong to the same functional networks. These local dynamics recapitulate the unimodal–transmodal hierarchy frequently reported in the human neuroimaging literature. Altogether, using an unbiased, data-driven approach, the findings demonstrate a dominant hierarchical variation in the properties of spontaneous regional neural activity, providing insight into the dynamical signature of hierarchical functional specialization in the human cortex.
 
@@ -34,7 +34,7 @@ Neural activity and functional interactions between brain areas are naturally va
 
 ![Golia image](/assets/ShafieiImage.png)
 
-## Brendan Harris (Sydney University): Inferring parametric variation across non-stationary neural time series
+## [Brendan Harris](https://twitter.com/brendanjohnh) (Sydney University): Inferring parametric variation across non-stationary neural time series
 
 From single-cell neural recordings to waveforms of magnetic fields in the solar wind, non-stationarity in high-dimensional time series often signifies change in the physical parameters of a system. How can we construct intuitive descriptions of arbitrary non-stationarity in time-series data, then use this summary to infer changes in a system's underlying parameters?
 In this talk I will present our new method for quantifying non-stationary variation in terms of low-dimensional time-series features, which allows us to understand how the dynamics of a complex system change over time and space. Our method accurately tracks a broad variety of non-stationarities in a range of simulated test systems, where non-stationarity was controlled by ground-truth parameter values.
@@ -43,7 +43,7 @@ Our feature-based approach to dimensionality reduction provides a comprehensive 
 
 ![Brendan image](/assets/BrendanImage.png)
 
-## Marija Markicevic (ETH Zurich): Causal effects of microcircuit neuromodulation on resting-state brain dynamics
+## [Marija Markicevic](https://twitter.com/m_markicevic) (ETH Zurich): Causal effects of microcircuit neuromodulation on resting-state brain dynamics
 
 There is an increasing motivation to understand how the brain’s macroscale dynamics are shaped by underlying microscale mechanisms. In animal models, we can now investigate this relationship in unprecedented detail by directly manipulating cellular-level properties while measuring the whole-brain response using resting-state functional magnetic resonance imaging (rsfMRI). Here, we focused on investigating how cell-specific chemogenetic modulation in either cortical or subcortical regions shapes BOLD fluctuations at the network level. Using ‘highly comparative time-series analysis’ (`hctsa`), we show the effects of neuromodulation on BOLD time-series dynamics of targeted regions as well as remote but anatomically connected regions. We uncover specific structural and functional constraints that shape changes in BOLD dynamics and illustrate what time-series properties are affected by neuromodulation. Finally, we show that hctsa classifier trained on causal microcircuit alterations can detect similar alterations from an independent rsfMRI dataset of a well-defined disease model. Our results provide deeper insight into how district microcircuit dynamics relate to large-scale noninvasive imaging measurement.
 
@@ -52,7 +52,7 @@ There is an increasing motivation to understand how the brain’s macroscale dyn
 
 ![](/assets/MarijaImage.png)
 
-## Annie Bryant (Sydney University): Characterizing schizophrenia neural dynamics using univariate time-series feature analysis
+## [Annie Bryant](https://twitter.com/AnnieGBryant) (Sydney University): Characterizing schizophrenia neural dynamics using univariate time-series feature analysis
 
 Functional neuroimaging offers a window into region-specific neural dysfunction in disorders like schizophrenia. By analysing time-series properties from blood oxygen level-dependent (BOLD) functional magnetic resonance imaging (fMRI), we can infer key regional dynamics that distinguish patients from cognitively healthy controls. Indeed, recent studies comparing BOLD signals in individuals with schizophrenia versus control participants report high classification accuracies, largely using pairwise correlation-based functional connectivity and/or deep learning methods. Despite strong classification metrics, such approaches generally miss region-specific local dynamics and lack biologically interpretable insights due to their intrinsic black-box nature.
 
