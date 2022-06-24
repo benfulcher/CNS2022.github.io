@@ -8,6 +8,8 @@ layout: home
 This page gives information on our workshop titled _'Highly Comparative Analysis of Neural Dynamics'_ at [CNS2022](https://www.cnsorg.org/cns-2022-quick) on Tuesday 19th July in Melbourne.
 More information about other workshops is [here](https://www.cnsorg.org/cns-2022-workshops).
 
+![](/assets/Meme.png)
+
 ## Overview
 
 Quantifying the dynamics of complex, spatially distributed neural systems typically requires researchers to subjectively select from the myriad scientific methods that have been developed to capture properties of univariate dynamics (e.g., properties of the autocorrelation function, multiscale entropy, or thousands of others) and pairwise dependencies (e.g., Pearson correlation, wavelet coherence, or hundreds of others).
@@ -21,8 +23,6 @@ This approach involves simultaneously applying large interdisciplinary libraries
 
 This workshop aims to solidify a community around the use of this novel approach and the computational tools for achieving it, and showcase some of highlights of its applications to date.
 It accompanies an associated CNS2022 tutorial: [_'Characterizing neural dynamics using highly comparative time-series analysis'_](https://www.cnsorg.org/cns-2022-tutorials#T5), which introduces each of these software tools and demonstrates their use on problems involving neural dynamics.
-
-![](/assets/Meme.png)
 
 # Speakers and talk information
 
