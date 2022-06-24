@@ -1,6 +1,9 @@
+<!--
+
 ---
 title: Memes
-layout: page
+layout: NO
 ---
 
 ![](/assets/Meme.png)
+-->

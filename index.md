@@ -16,6 +16,8 @@ This approach involves simultaneously applying large interdisciplinary libraries
 
 This workshop aims to solidify a community around the use of this novel approach and the computational tools for achieving it, and showcase some of highlights of its applications to date.
 
+![](/assets/Meme.png)
+
 Speakers and talks are listed below:
 
 ## Golia Shafiei (McGill University): Topographic gradients of intrinsic dynamics across neocortex
