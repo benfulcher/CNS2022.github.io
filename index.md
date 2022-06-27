@@ -34,7 +34,7 @@ Neural activity and functional interactions between brain areas are naturally va
 
 ![Golia image](/assets/ShafieiImage.png)
 
-## [Nao Tsuchiya]() (Monash University): Massive feature extraction of EEG data in sleep, anesthesia and perceptual tasks to find the neural correlates of level and contents of consciousness
+## [Nao Tsuchiya](https://twitter.com/NaoTsuchiya) (Monash University): Massive feature extraction of EEG data in sleep, anesthesia and perceptual tasks to find the neural correlates of level and contents of consciousness
 
 The widely used techniques for EEG data to find the neural correlates of consciousness, be it for the determination of level (e.g., coma, sleep, anesthesia) or contents (e.g., seeing A or B) of consciousness, were traditionally developed based on the visual inspection of electrophysiological recordings by the human eye. Recent computational approaches have complemented these intuitive analyses methods but the choice of analysis tends to be arbitrary. To be agnostic about these prior choice of methods, here we apply hctsa and pyspi methods to EEG data. We will mainly present our completed work on sleep categorization using hctsa but if time permits, we also present our preliminary results on anesthesia with a massive pairwise analysis (pyspi) and event-related ERP data (hctsa) on the distinctions among neural dynamics related to conscious and reported processes, conscious processes in the no-report condition, and non-conscious processes. Our framework lays the groundwork for a data-driven exploration of the neural correlates of consciousness, against which theoretically-derived measures can be compared.
 
