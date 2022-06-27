@@ -34,14 +34,11 @@ Neural activity and functional interactions between brain areas are naturally va
 
 ![Golia image](/assets/ShafieiImage.png)
 
-## [Brendan Harris](https://twitter.com/brendanjohnh) (Sydney University): Inferring parametric variation across non-stationary neural time series
+## [Nao Tsuchiya]() (Monash University): Massive feature extraction of EEG data in sleep, anesthesia and perceptual tasks to find the neural correlates of level and contents of consciousness
 
-From single-cell neural recordings to waveforms of magnetic fields in the solar wind, non-stationarity in high-dimensional time series often signifies change in the physical parameters of a system. How can we construct intuitive descriptions of arbitrary non-stationarity in time-series data, then use this summary to infer changes in a system's underlying parameters?
-In this talk I will present our new method for quantifying non-stationary variation in terms of low-dimensional time-series features, which allows us to understand how the dynamics of a complex system change over time and space. Our method accurately tracks a broad variety of non-stationarities in a range of simulated test systems, where non-stationarity was controlled by ground-truth parameter values.
-I will also show how we analyse high-dimensional, spatio-temporal Neuropixels recordings to automatically uncover regions of the brain that transition between distinct dynamical states as environmental parameters change over time.
-Our feature-based approach to dimensionality reduction provides a comprehensive but interpretable summary of non-stationarity that captures meaningful changes in the dynamical properties as well as the underlying parameters of time-varying systems.
+The widely used techniques for EEG data to find the neural correlates of consciousness, be it for the determination of level (e.g., coma, sleep, anesthesia) or contents (e.g., seeing A or B) of consciousness, were traditionally developed based on the visual inspection of electrophysiological recordings by the human eye. Recent computational approaches have complemented these intuitive analyses methods but the choice of analysis tends to be arbitrary. To be agnostic about these prior choice of methods, here we apply hctsa and pyspi methods to EEG data. We will mainly present our completed work on sleep categorization using hctsa but if time permits, we also present our preliminary results on anesthesia with a massive pairwise analysis (pyspi) and event-related ERP data (hctsa) on the distinctions among neural dynamics related to conscious and reported processes, conscious processes in the no-report condition, and non-conscious processes. Our framework lays the groundwork for a data-driven exploration of the neural correlates of consciousness, against which theoretically-derived measures can be compared.
 
-![Brendan image](/assets/BrendanImage.png)
+![Nao Image](/assets/NaoImage.gif)
 
 ## [Marija Markicevic](https://twitter.com/m_markicevic) (ETH Zurich): Causal effects of microcircuit neuromodulation on resting-state brain dynamics
 
@@ -59,6 +56,15 @@ Functional neuroimaging offers a window into region-specific neural dysfunction 
 In this talk, I will present a novel approach that integrates local and pairwise neural activity dynamics to classify schizophrenia versus control participants. We will walk through a pipeline that extracts univariate and pairwise features from BOLD fMRI time-series data, using `theft` (R) and `pySPI` (python), respectively. We implement a simple linear support vector machine classifier to comprehensively analyze how the time-series features delineate schizophrenia from control participants, with a focus on biological interpretability. We also compare different techniques for dimensionality reduction that can improve out-of-sample classifier robustness. This approach is generalizable across disease spaces and opens the door for deeper insights into the underpinnings of dysregulated neural activity.
 
 ![](/assets/AnnieImage.png)
+
+## [Brendan Harris](https://twitter.com/brendanjohnh) (Sydney University): Inferring parametric variation across non-stationary neural time series
+
+From single-cell neural recordings to waveforms of magnetic fields in the solar wind, non-stationarity in high-dimensional time series often signifies change in the physical parameters of a system. How can we construct intuitive descriptions of arbitrary non-stationarity in time-series data, then use this summary to infer changes in a system's underlying parameters?
+In this talk I will present our new method for quantifying non-stationary variation in terms of low-dimensional time-series features, which allows us to understand how the dynamics of a complex system change over time and space. Our method accurately tracks a broad variety of non-stationarities in a range of simulated test systems, where non-stationarity was controlled by ground-truth parameter values.
+I will also show how we analyse high-dimensional, spatio-temporal Neuropixels recordings to automatically uncover regions of the brain that transition between distinct dynamical states as environmental parameters change over time.
+Our feature-based approach to dimensionality reduction provides a comprehensive but interpretable summary of non-stationarity that captures meaningful changes in the dynamical properties as well as the underlying parameters of time-varying systems.
+
+![Brendan image](/assets/BrendanImage.png)
 
 ## Angus Leung (Monash University): Towards blinded classification of levels of consciousness: distinguishing wakefulness from general anesthesia and sleep in flies using a massive library of univariate time series analyses
 
