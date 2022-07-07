@@ -24,7 +24,7 @@ This approach involves simultaneously applying large interdisciplinary libraries
 This workshop aims to solidify a community around the use of this novel approach and the computational tools for achieving it, and showcase some of highlights of its applications to date.
 It accompanies an associated CNS2022 tutorial: [_'Characterizing neural dynamics using highly comparative time-series analysis'_](https://www.cnsorg.org/cns-2022-tutorials#T5), which introduces each of these software tools and demonstrates their use on problems involving neural dynamics.
 
-# Schedule
+## Schedule
 
 - 13:30 __Introduction__. (Ben Fulcher)
 - 13:40 __Golia Shafiei__: Topographic gradients of intrinsic dynamics across neocortex.
