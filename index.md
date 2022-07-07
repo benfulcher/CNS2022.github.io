@@ -34,6 +34,7 @@ It accompanies an associated CNS2022 tutorial: [_'Characterizing neural dynamics
 - 15:30 __Annie Bryant__: Characterizing schizophrenia neural dynamics using univariate time-series feature analysis.
 - 16:00 __Brendan Harris__: Inferring parametric variation across non-stationary neural time series.
 - 16:30 __Angus Leung__: Towards blinded classification of levels of consciousness: distinguishing wakefulness from general anesthesia and sleep in flies using a massive library of univariate time-series analyses.
+- 17:00 __Beers__
 
 # Speakers and talk information
 
