@@ -1,5 +1,5 @@
 ---
-title: CNS2022 Tutorial on Highly Comparative Analysis of Neural Dynamics
+title: Tutorial
 layout: page
 ---
 

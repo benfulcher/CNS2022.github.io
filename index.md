@@ -1,7 +1,7 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-title: CNS2022 Workshop on Highly Comparative Analysis of Neural Dynamics
+title: Workshop
 layout: home
 ---
 
